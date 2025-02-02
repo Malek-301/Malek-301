@@ -1,31 +1,20 @@
 # Hello, World! 👋 I'm Malek Khadhraoui
+Software Engineering and Information Systems Student
 
-- 🧑‍💻 Aspiring Software Developer & Software Engineering and Information Systems Student
-- 💻 **Skills**:
-   Programming Languages: Python, JavaScript, HTML, CSS, a bit of Java and C
-   Tools: VSCode, Git Bash, Windows PowerShell
-   Expertise: Software Development
+Programming Languages: Python, JavaScript, HTML, CSS, Java and C
+Tools: VSCode, Git Bash, Windows PowerShell
+
   
-- 🎓 **Currently Working On**:
-   Graduation Year Project
-   Summer internship at SagemCom 👀
-   Experience: Familiar with static websites, now working on dynamic ones
+Summer internship at SagemCom 
+Improving Git and development skills
   
-- 🚀 **Learning & Goals**:
-   Improving Git and development skills
+Pitcher X 2 mandates at Enactus
+Community Strategist X 1 mandate
+Team Leader X 1 mandate
   
-- 🌱 **Soft Skills**:
-   Pitcher X 2 mandates at Enactus
-   Community Strategist X 1 mandate
-   Team Leader X 1 mandate
-   Contributed to winning Limitlees challenge at the Enactus Tunisia National Exposition
+Scout leader since 3 years 
+Student-entrepreneur initiator 
   
-- 🥋 **Hobbies & Interests**:
-   Taekwondo enthusiast ⚡
-   Scout leader since 3 years 💞️
-   Student-entrepreneur initiator 😄
-  
-- 📫 **Contact Me**:
-   Email: malekkhadhraoui32@gmail.com
-   LinkedIN : Malek Khadhraoui
+Email: malekkhadhraoui32@gmail.com
+LinkedIN : Malek Khadhraoui
 
